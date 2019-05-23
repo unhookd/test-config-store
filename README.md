@@ -1,2 +1,2 @@
 # test-config-store
-For testing the GitHub config provider.
+A repo for testing the GitHub config provider. This repo contains test config files for the automated testing suite for unctl.
